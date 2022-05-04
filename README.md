@@ -9,7 +9,7 @@
         <p>made by >> </p>  <h4><b> Claudio</b></h4>
 <hr>
 
-<h3>APPLES 🍎 AND BASKET 🧺  </h3>
+<h3>APPLES 🍎 no basket  </h3>
 <p>made by >> </p>  <h4><b> Jack</b></h4>
 <hr>
 
